@@ -138,27 +138,39 @@ plt.show()
 
 The distribution of average Spotify streams per track by release month reveals notable trends. The data indicates that songs released in January achieve the highest median streams, significantly surpassing those of other months.
 
-Songs released in January reach a median stream count of over 400 million. Following January, the months of July and June also show high median stream counts, albeit lower than January’s peak. In contrast, February, March, April, May, September, October, November, and December exhibit relatively lower median streams, with March and May being among the lowest.
+Songs released in January reach a median stream count of over 400 million. Following January, the months of July and June also show high median stream counts, though significantly lower than January’s peak. In contrast, the remaining months exhibit relatively lower median streams, with March and May being among the lowest.
 
-Possible Reasons for Differences in Average Streams:
-January Effect: The high streams in January could be attributed to new year releases, where artists capitalize on the holiday season aftermath and new year resolutions, drawing significant attention and streams.
-Summer Releases: The increased streams in June and July may be due to summer hits and festivals, where new music is often released to coincide with summer events and vacations, leading to higher engagement and streaming.
-End-of-Year Releases: December shows a moderate level of streams, possibly benefiting from holiday season releases and year-end charts, but not as high as January due to the shorter duration within the year for accumulating streams.
-Mid-Year Decline: The lower streams in February, March, April, and May might be due to fewer high-profile releases or less promotional activity during these months. These periods might not have as many strategic releases compared to the beginning and middle of the year.
+The differences in average streams can be explained by several factors. The high streams in January could be attributed to new year releases, where artists capitalise on the holiday season aftermath and new year resolutions, drawing significant attention and streams. In contrast, the increased streams in June and July may be due to summer hits and festivals, where new music is often released to coincide with summer events, leading to higher engagement and streaming.
+
+December shows a moderate level of streams, possibly benefiting from holiday season releases and year-end charts. However, it does not reach the peak seen in January due to the shorter duration within the year for accumulating streams. On the other hand, the lower streams in February, March, April, and May might be due to fewer high-profile releases or less promotional activity during these months. These periods might not have as many strategic releases compared to the beginning and middle of the year.
 
 ### Summary
 January leads with the highest median streams per track, likely due to strategic new year releases. June and July also show strong performance, aligning with summer events and festivals. The lower streams in February, March, April, and May suggest fewer high-impact releases or promotions during these months. The moderate streams in December could be driven by holiday season releases, though not as impactful as January due to limited streaming time within the year.
 
 ## Reflection
 
+Through completing this project, I deepened my understanding of streaming data in the music industry; including possible strategies that artists use to maximise potential streams. The key skills I wished to improve upon by completing this project were my visualisation skills, including fitting plots to a theme, and choosing the most appropriate plot types. I feel this project has significantly strengthened these skills, and moving forward, I will be far more comfortable with the visualisation side of Data Analysis. \
+I am currently undertaking an internship at the UK Space Agency, as a research intern, and I hope that some of the skills that I practised during this project will allow me to perform similar analysis on the work I am doing. Perhaps in the coming weeks I will add a project that details the work being done there, as I am sure there will be opportunity for data analysis.
+- I gained further appreciation for how the use of certain libraries in conjunction with oneanother simplifies the whole Data Analysis process. In particular, using Seaborn and Pandas together made creating aesthetically pleasing plots relatively easy.
+- I learned that spending time finding a fitting dataset is important, as whilst I answered some insightful questions, some of the questions I had going into this project remain unanswered. Upon returning to this project, I will ensure that the chosen dataset contains all the raw data necessary.
+- As mentioned, I feel far more comfortable with the visualisation side of data analysis, using the FuncFormatter function of matplotlib came in especially handy in making some final touches to plots to ensure readability and visual clarity.
+
+I now feel a lot more comfortable with fitting plots to a theme, and moving forward, if appropriate, will continue with this trend.
 
 
 ## Challenges I Faced
-
+Completing this project did not come without its own challenges. A lot of these came in the form of trying to remain faithful to the theme, whilst ensuring maximum visual clarity. Some experimentation was needed to find the correct alpha of plots; shade of colours; general colour scheme; etc. It was through this experiementation, however, that I managed to create a few plots that I am very pleased with, and could easily extend into new projects and themes. \
+Moving on from my previous project, which involved looking at job market data for the data industry in the UK, I felt far more comfortable with data cleaning and manipulating dataframes. \
+The main challenge that holds this project from going into further depth comes from the limited scope of the dataset. Moving forward, I will make sure to choose a dataset that contains all the raw data for me to answer all the questions that initially draw me to the project; unless I am provided with a dataset and questions from an outside party.
 
 
 ## Conclusion
 
+Overall, the project was a great success. Although relatively short, I managed to find some meaningful insights about Spotify's streaming trends, and significantly developed my skills in data visualisation and remaining loyal to a theme. \
+I learned a great deal during the project, and now feel far more comfortable with using Pandas and Seaborn, as well as Git/ GitHub (This is my second uploaded piece of work on GitHub). \
+For the time being, this should conclude my projects in Python, as I would like to showcase my skills in R and SQL. \
+I now have a deeper appreciation for the aesthetic side of data visualisation, so moving forward I would like to learn Power BI. After my R and SQL projects, I will aim to complete some visualisations in Power BI, or I could potentially showcase the skills I learn there alongside some other languages and tools in the same project. \
+If I were to come back to this project, I would make sure to choose a more appropriate dataset for the set questions, and may potentially choose to experiment with other data visualisation tools such as Power BI, to compare the plots generated to those seen in this project.
 
 
 ## Thank you
